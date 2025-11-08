@@ -38,5 +38,8 @@ git add <nombre del archivo>
 
 anadir cambio  a la rama local
 
+```
+git commit -am " descrip"
+```
 
 

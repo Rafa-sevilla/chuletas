@@ -33,7 +33,7 @@ git commit -am " descrip"
 - listar las ramas : `git branch -a`
 - creear rama : `git checkout -b <nombre de la rama>`
 - empujar rama nueva: `git push --set-upstream origin HEAD`
-
-
-
+- cambiar rama : `git checkout <nombre de rama>`
+- unir ramas : git merge <nombre rama>
+- actualizar: git pull
 

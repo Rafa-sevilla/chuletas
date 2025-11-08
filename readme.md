@@ -42,4 +42,6 @@ anadir cambio  a la rama local
 git commit -am " descrip"
 ```
 
+### ramas (branch)
 
+- listar las ramas : `git branch -a`

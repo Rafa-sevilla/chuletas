@@ -45,3 +45,7 @@ git commit -am " descrip"
 ### ramas (branch)
 
 - listar las ramas : `git branch -a`
+- creear rama : `git checkout -b <nombre de la rama>`
+- empujar rama nueva: `git push --set-upstream origin HEAD`
+
+
